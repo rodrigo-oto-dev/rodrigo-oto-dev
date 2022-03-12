@@ -3,13 +3,12 @@
 - 🔭 Atualmente trabalhando como desenvolvedor sênior
 - 🌱 Estudando arquitetura de sistemas
 - 📫 rodrigo.oto.dev@gmail.com
-- 
 
 
 <div align="center">
   <a href="https://rodrigosoto.com.br" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-oto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-oto-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-oto-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-oto-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block;"><br>
 <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">               <img align="center" alt="Rodrigo-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
