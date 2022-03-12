@@ -25,3 +25,4 @@
   </div>
   
   
+  ![Snake animation](https://github.com/rodrigo-oto-dev/rodrigo-oto-dev/blob/output/github-contribution-grid-snake.svg)
